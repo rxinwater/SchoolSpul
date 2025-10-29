@@ -1,0 +1,1 @@
+int[] letters = new int[26];
